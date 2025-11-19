@@ -178,7 +178,7 @@ export default function LandingPage() {
 
       <div id="pricing" data-section="pricing">
         <PricingCardOne
-          title="Menu Fisso e Degustazioni"
+          title="Esperienze Culinarie"
           description="Scegliete tra i nostri menu fissi studiati per offrirvi un'esperienza culinaria completa"
           tag="Menu Speciali"
           tagIcon={Star}
