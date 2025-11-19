@@ -38,7 +38,7 @@ export default function LandingPage() {
 
       <div id="hero" data-section="hero">
         <HeroBillboardGallery
-          title="Autentica Cucina Italiana a Milano"
+          title="We love TechShop"
           description="Benvenuti al Techshop, dove tradizione e sapori genuini si incontrano nel cuore di Milano. Scoprite i nostri piatti preparati con ingredienti freschi e ricette tramandate da generazioni."
           tag="Ristorante Italiano"
           tagIcon={Star}
