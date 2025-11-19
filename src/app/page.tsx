@@ -58,7 +58,7 @@ export default function LandingPage() {
               imageAlt: "Interno del ristorante Techshop"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763590824803-fi775v5o.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763591459006-jttbct76.jpg",
               imageAlt: "Pasta Carbonara autentica"
             },
             {
