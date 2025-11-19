@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
@@ -98,21 +98,21 @@ export default function LandingPage() {
           textboxLayout="default"
           features={[
             {
-              id: "1",
+              id: 1,
               title: "Ingredienti Freschi Quotidiani",
               description: "Ogni mattina selezioniamo personalmente i migliori ingredienti dal mercato locale per garantire freschezza e qualità in ogni piatto che serviamo.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763590828370-d4si8vo5.jpg",
               imageAlt: "Ingredienti freschi italiani"
             },
             {
-              id: "2",
+              id: 2,
               title: "Chef con Esperienza Generazionale",
               description: "I nostri chef seguono ricette tramandate da tre generazioni, mantenendo viva la tradizione culinaria italiana con tecniche autentiche e passione.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763590827618-lpyjmizk.jpg",
               imageAlt: "Chef italiano esperto"
             },
             {
-              id: "3",
+              id: 3,
               title: "Cantina con Vini Selezionati",
               description: "Una collezione accuratamente curata di vini italiani delle migliori regioni, perfetti per accompagnare ogni piatto del nostro menu tradizionale.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763590829154-0eb9f09y.jpg",
